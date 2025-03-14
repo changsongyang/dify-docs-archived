@@ -78,6 +78,7 @@
   * [Manage Knowledge](guides/knowledge-base/knowledge-and-documents-maintenance.md)
     * [Maintain Documents](guides/knowledge-base/knowledge-and-documents-maintenance/maintain-knowledge-documents.md)
     * [Maintain Knowledge via API](guides/knowledge-base/knowledge-and-documents-maintenance/maintain-dataset-via-api.md)
+  * [Metadata](guides/knowledge-base/metadata.md)
   * [Integrate Knowledge Base within Application](guides/knowledge-base/integrate-knowledge-within-application.md)
   * [Retrieval Test / Citation and Attributions](guides/knowledge-base/retrieval-test-and-citation.md)
   * [Connect to an External Knowledge Base](guides/knowledge-base/connect-external-knowledge.md)
@@ -131,7 +132,6 @@
   * [Team Members Management](guides/management/team-members-management.md)
   * [Personal Account Management](guides/management/personal-account-management.md)
   * [Subscription Management](guides/management/subscription-management.md)
-
 ## Workshop
 
 * [Basic](workshop/basic/README.md)
