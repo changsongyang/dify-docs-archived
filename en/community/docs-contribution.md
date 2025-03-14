@@ -10,7 +10,7 @@ We categorize documentation issues into two main types:
 * Content Additions
 * Best Practices
 
-### Content Errors
+### Content Corrections
 
 If you encounter errors while reading a document or wish to suggest modifications, please use the **"Edit on GitHub"** button located in the table of contents on the right side of the document page. Utilize GitHub's built-in online editor to make your changes, then submit a pull request with a concise description of your edits. Please format your pull request title as `Fix: Update xxx`. We'll review your submission and merge the changes if everything looks good.
 
@@ -32,7 +32,7 @@ git clone https://github.com/<your-github-account>/dify-docs.git
 
 > Note: You can also use GitHub's online code editor to submit new Markdown files directly in the appropriate directory.
 
-1. Locate the relevant document directory and add your file
+2. Locate the relevant document directory and add your file
 
 For instance, if you're contributing documentation for third-party tools, please add new `.md` files to the `/guides/tools/tool-configuration/` directory.
 
@@ -41,8 +41,6 @@ For instance, if you're contributing documentation for third-party tools, please
 When submitting a pull request, please use the format `Docs: Add xxx` for the title and provide a brief description in the comment field. We'll review your submission and merge the changes if everything is in order.
 
 ### Best Practices
-
-Best Practices
 
 We warmly encourage you to share the creative application scenarios you have built with Dify! To help community members better understand and replicate your hands-on experience, we recommend structuring your content as follows:
 
@@ -65,10 +63,6 @@ We warmly encourage you to share the creative application scenarios you have bui
    - Configuration details for key nodes
 
 5. FAQ
-   - Typical development challenges
-   - Troubleshooting and solutions
-   - Performance optimization tips
-   - Additional notes and best practices
 ```
 
 > For images and screenshots, please use online image hosting links in your documentation.
