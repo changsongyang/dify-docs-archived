@@ -5,7 +5,9 @@ The documentation migration has been completed. This repository now serves as th
 We have migrated the `dify-docs` project to a new framework for better maintainability, readability, and community collaboration.
 
 •	🆕 New Documentation Repository: https://github.com/langgenius/dify-docs-mintlify
+
 •	🌐 New Documentation Site: https://docs.dify.ai
+
 • 🌐 Legacy Documentation Site: https://legacy-docs.dify.ai
 
 ## 📢 About This Repository
