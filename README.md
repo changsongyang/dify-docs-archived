@@ -13,8 +13,11 @@ We have migrated the `dify-docs` project to a new framework for better maintaina
 ## 📢 About This Repository
 
 •	This repository is no longer actively maintained and is preserved for archival purposes only.
+
 •	We will make a best-effort attempt to review and respond to currently open PRs and issues.
+
 •	For any new contributions, suggestions, or documentation updates, please submit them to the new repository: [dify-docs-mintlify](https://github.com/langgenius/dify-docs-mintlify).
+
 •	Thank you to all past contributors for your support and collaboration!
 
 ⸻
